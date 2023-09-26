@@ -7,7 +7,7 @@ trigger:
 - master
 
 pool:
-  name:davespooly 
+  name : davespooly 
 
 
 variables:
